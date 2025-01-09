@@ -1,5 +1,5 @@
 # pyspeaker-pymike
-change window audio input/output device in one click 
+**윈도우 input/oupput 디바이스 변경을 윈클릭으로**
 <hr> 
 <h1>사용법</h1>
 
