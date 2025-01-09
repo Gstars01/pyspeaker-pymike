@@ -5,7 +5,7 @@ change window audio input/output device in one click
 
 [이 파일을 다운로드 합니다](https://github.com/Gstars01/pyspeaker-pymike/blob/main/pychanger.zip)
 
-<P>
+<li>
   1.압축 풀기
   2.윈도우 검색창에서 소리 설정 검색 
   3.장치 속성을 선택하여 스피커 이름을 바꿔줍니다. ( 바꾸고싶은 디바이스 이름은 모두 바꿔야합니다.) 
@@ -18,4 +18,4 @@ change window audio input/output device in one click
   7.device_name 뒤의 ""안에 아까 바꿔준 이름을 넣습니다. 
   8.창을 저장하고 닫습니다.
   9.파일을 실행해줍니다.
-</P>
+</li>
