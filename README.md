@@ -8,7 +8,7 @@ change window audio input/output device in one click
 # 오디오 장치 이름 변경 및 pyspeaker 설정 방법
 
 1. **압축 풀기**
-2. **윈도우 검색창에서 소리 설정 검색** 
+2. **윈도우 검색창에서 소리 설정 검색**  
    ![image](https://github.com/user-attachments/assets/386cf20e-3517-4dcc-8438-b304bcfe048c)
 3. **장치 속성을 선택하여 스피커 이름을 바꿔줍니다.**  
    (바꾸고 싶은 디바이스 이름은 모두 바꿔야 합니다.)  
