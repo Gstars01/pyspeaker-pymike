@@ -1,6 +1,9 @@
 <hr>
 <h2>윈도우 input/oupput 디바이스 변경을 윈클릭으로</h2> 
 <hr> 
+<h2>이 프로그램은 파이썬이 다운로드 되어 있어야 합니다. 파이썬 3.9.9 버전을 권장합니다.</h2>
+https://www.python.org/downloads/release/python-399/
+
 <h1>사용법</h1>
 
 [이 파일을 다운로드 합니다](https://github.com/Gstars01/pyspeaker-pymike/blob/main/pychanger.zip)
@@ -26,5 +29,3 @@
 11. **파일을 실행해줍니다.**
 
 <hr>
-<h2>이 프로그램은 파이썬이 다운로드 되어 있어야 합니다. 파이썬 3.9.9 버전을 권장합니다.</h2>
-https://www.python.org/downloads/release/python-399/
