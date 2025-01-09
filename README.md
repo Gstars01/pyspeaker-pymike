@@ -3,7 +3,7 @@
 <hr> 
 <h2>이 프로그램은 파이썬이 다운로드 되어 있어야 합니다. 파이썬 3.9.9 버전을 권장합니다.</h2>
 https://www.python.org/downloads/release/python-399/
-<br>
+<br/>
 이프로그램은 pyintaller를 사용한 exe파일 제작을 적극적으로 추천합니다.
 
 <hr>
